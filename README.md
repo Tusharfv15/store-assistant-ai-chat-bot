@@ -5,6 +5,11 @@ This chatbot provides precise, product-specific responses to customer queries. I
 
 **Note**: This chatbot does not respond to any general questions or topics outside the scope of its product offerings. Queries unrelated to the items sold will not receive responses.
 
+## Tech Stack
+- **Python**: The primary programming language used to build and run the chatbot.
+- **OpenAI API**: Provides the language model powering the chatbot's responses.
+- **Gradio**: An easy-to-use interface library for creating a web-based user interface for the chatbot.
+
 ## Features
 - **Product-Specific Responses**: The chatbot is trained to provide concise and relevant information strictly related to products in the store.
 - **Price Inquiries**: Users can ask about the cost of available products, and the chatbot will return accurate pricing.
@@ -15,5 +20,3 @@ This chatbot provides precise, product-specific responses to customer queries. I
 - **Unsupported Query**: "What is the weather today?" (This will not be answered, as it is outside the chatbot's scope).
 
 This focused approach ensures that the chatbot provides accurate, product-related information efficiently, without irrelevant responses.
-
-![image](https://github.com/user-attachments/assets/717a6639-809d-4dc6-9af7-15f496d473f3)
